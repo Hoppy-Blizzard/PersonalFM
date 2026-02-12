@@ -131,3 +131,6 @@ ffplay is supported for local files, but YouTube stream playback is built around
 Progress bar is exact for local files when duration is known (via ffprobe).
 
 For YouTube streams, duration may be unknown; the bar will show an animated “streaming” style indicator.
+=======
+# PersonalFM
+Terminal based youtube music and local file player.
