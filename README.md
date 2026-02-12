@@ -1,4 +1,4 @@
-# ANTHONY FM 🎧🐧  
+#  FM 🎧🐧 << Add your own ASCII art 
 A fast, terminal-based music player (Textual TUI) for **local audio + YouTube playlists**, with playlist management, shuffle, MP3 downloading, and a clean “now playing” panel.
 
 > Built for Linux terminals. Runs great in a translucent, borderless terminal window (e.g. Kitty/Konsole).
